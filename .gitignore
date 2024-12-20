@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # Created by https://www.toptal.com/developers/gitignore/api/java,eclipse,windows,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,eclipse,windows,macos
+=======
+# Created by https://www.toptal.com/developers/gitignore/api/java,windows,eclipse,macos
+# Edit at https://www.toptal.com/developers/gitignore?templates=java,windows,eclipse,macos
+>>>>>>> 04f2e324638b750ce54fc5e71fa42a483a00b645
 
 ### Eclipse ###
 .metadata
@@ -153,4 +158,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# End of https://www.toptal.com/developers/gitignore/api/java,eclipse,windows,macos<<<<<<< HEAD
 # End of https://www.toptal.com/developers/gitignore/api/java,eclipse,windows,macos
+=======
+# End of https://www.toptal.com/developers/gitignore/api/java,windows,eclipse,macos
+>>>>>>> 04f2e324638b750ce54fc5e71fa42a483a00b645
